@@ -82,15 +82,5 @@ http://<minikube-ip>/v2/products/search?q=tv
    - Test  
    - Deploy  
 
----
 
-## ✅ Final Screenshot Checklist
-
-| ✅ Screenshot                | 📌 Purpose                              |
-|----------------------------|------------------------------------------|
-| ✅ `minikube start`         | Minikube and ingress running             |
-| ✅ `docker build` output     | Docker images created                    |
-| ✅ `kubectl get all -n <ver>`| Deployments verified                     |
-| ✅ Browser output `/v1`     | Application response in browser          |
-| ✅ GitHub Actions           | CI/CD workflow stages                    |
 
