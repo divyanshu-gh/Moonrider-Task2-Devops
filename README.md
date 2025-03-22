@@ -21,7 +21,7 @@ minikube addons enable ingress
 ```
 
 📸 Screenshot:  
-![Minikube Ingress Enabled](devops.jpg)
+![Minikube Ingress Enabled](https://github.com/divyanshu-gh/Moonrider-Task2-Devops/blob/main/successfully%20starting%20Minikube%20and%20enabling%20the%20Ingress%20addon..jpg)
 
 ---
 
